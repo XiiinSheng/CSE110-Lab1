@@ -2,4 +2,4 @@
 
 Xin's User Page
 
-Favorite programming language: JavaScript! 
+Favorite programming language: JavaScript!!
